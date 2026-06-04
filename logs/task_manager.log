@@ -11,3 +11,7 @@
 2026-06-03 11:42:46,299 - INFO - Task deleted: 1
 2026-06-03 11:42:54,767 - INFO - Task added: Deploy app
 2026-06-03 11:43:14,667 - INFO - Task added: Buy milk
+2026-06-04 11:39:26,561 - INFO - Task added: Test task
+2026-06-04 11:39:26,563 - INFO - Task added: To delete
+2026-06-04 11:39:26,563 - INFO - Task deleted: 1
+2026-06-04 11:39:44,186 - INFO - Task added: Deploy app
