@@ -15,3 +15,12 @@
 2026-06-04 11:39:26,563 - INFO - Task added: To delete
 2026-06-04 11:39:26,563 - INFO - Task deleted: 1
 2026-06-04 11:39:44,186 - INFO - Task added: Deploy app
+2026-06-04 12:26:59,719 - INFO - Task added: 
+2026-06-04 14:33:37,596 - INFO - Task added: Test task
+2026-06-04 14:33:37,599 - INFO - Task added: To delete
+2026-06-04 14:33:37,600 - INFO - Task deleted: 1
+2026-06-04 14:46:52,471 - INFO - Task added: Test task
+2026-06-04 14:46:52,472 - INFO - Task added: To delete
+2026-06-04 14:46:52,473 - INFO - Task deleted: 1
+2026-06-04 12:48:57,300 - INFO - Task added: Buy coofee
+2026-06-04 12:49:23,465 - INFO - Task deleted: 6

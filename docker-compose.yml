@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  task-manager:
+    image: task-manager:latest
+    user: "${UID}:${GID}"
+    environment:
+      TASKS_FILE_PATH: /data/tasks.json
+    volumes:
+      - ./tasks.json:/data/tasks.json
+      - ./logs:/app/logs
+    stdin_open: true
+    tty: true
