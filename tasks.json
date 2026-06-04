@@ -1,12 +1,12 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "description": "Test task",
     "priority": "high"
   },
   {
-    "id": 3,
-    "description": "Deploy app",
+    "id": 2,
+    "description": "Build app",
     "priority": "high"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "id": 4,
-    "description": "Buy milk",
+    "description": "Test task",
     "priority": "high"
   },
   {
     "id": 5,
-    "description": "Deploy app",
+    "description": "Buy milk",
     "priority": "high"
   }
 ]
